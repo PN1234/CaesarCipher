@@ -1,4 +1,4 @@
-package vernamcipher.com;
+package caesarcipher.com;
 import java.util.Scanner;
 public class Cipher { 
 public static void main(String[] args){
